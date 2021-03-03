@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="assets/welcome.png" alt="Welcome" align="center">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/welcome.png" alt="Welcome" align="center">
 </div>
 
 <h3 align="center">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/machine_learning.gif" alt="Machine Learning" align="center">
+  <br>
+  <p>I'm currently studying AI/Machine Learning and working as an Android Developer</p>
+</h3>
+
+<hr>
+
+<h3 align="center">
   <a href="https://paulolima.xyz">
-    <img src="assets/windows_95.gif" alt="Visit homepage" align="center">
+    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/windows_95.gif" alt="Visit homepage" align="center">
     <br>
     <p>Visit my personal homepage</p>
   </a>
@@ -14,7 +22,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lima-paulo/">
-    <img src="assets/globe.gif" alt="LinkedIn" align="center">
+    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/globe.gif" alt="LinkedIn" align="center">
     <p>Check my LinkedIn</p>
   </a>
 </div>
@@ -23,7 +31,7 @@
 
 <div align="center">
   <a href="https://play.google.com/store/apps/dev?id=4878945718056682154">
-    <img src="assets/google.jpg" alt="Playstore" align="center">
+    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/google.jpg" alt="Playstore" align="center">
     <p>See my Apps</p>
   </a>
 </div>
@@ -33,7 +41,7 @@
 <div align="center">
   <p>Have a good day!</p>
   <div>
-    <img src="assets/smile.gif" alt="Smiley" align="center">
+    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/smile.gif" alt="Smiley" align="center">
   </div>
 </div>
 
@@ -43,5 +51,5 @@
 </div>
 
 <div align="center">
-  <img src="assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
