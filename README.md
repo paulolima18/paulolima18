@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/welcome.png" alt="Welcome" align="center">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/default.png" alt="Welcome" align="center">
 </div>
 
 <h3 align="center">
