@@ -5,13 +5,13 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/machine_learning.gif" alt="Machine Learning" align="center">
   <br>
-  <p>I'm currently studying AI/Machine Learning and working as an Android Developer</p>
+  <p>I'm currently working as an Android Developer</p>
 </h3>
 
 <hr>
 
 <h3 align="center">
-  <a href="https://paulolima.xyz">
+  <a href="https://paulolima18.github.io/portfolio">
     <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/windows_95.gif" alt="Visit homepage" align="center">
     <br>
     <p>Visit my personal homepage</p>
