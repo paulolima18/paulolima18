@@ -21,6 +21,7 @@ I'm an experienced Android Developer passionate about creating innovative mobile
 ## 💼 Skills
 
 - Android Development
+- iOS Development
 - Kotlin / Java
 - Machine Learning
 - UI/UX Design
