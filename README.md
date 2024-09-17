@@ -1,55 +1,53 @@
+# Paulo Lima
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/default.png" alt="Welcome" align="center">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/default.png" alt="Welcome" width="400">
 </div>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/machine_learning.gif" alt="Machine Learning" align="center">
-  <br>
-  <p>I'm currently working as an Android Developer</p>
-</h3>
+## 👨‍💻 About Me
 
-<hr>
+I'm an experienced Android Developer passionate about creating innovative mobile applications. With a strong background in machine learning and software development, I strive to deliver high-quality solutions that make a difference.
 
-<h3 align="center">
-  <a href="https://paulolima18.github.io/portfolio">
-    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/windows_95.gif" alt="Visit homepage" align="center">
-    <br>
-    <p>Visit my personal homepage</p>
-  </a>
-</h3>
-
-<hr>
+## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lima-paulo/">
-    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/globe.gif" alt="LinkedIn" align="center">
-    <p>Check my LinkedIn</p>
-  </a>
+
+[![Personal Website](https://img.shields.io/badge/Website-paulolima18.github.io-blue?style=for-the-badge&logo=google-chrome)](https://paulolima18.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lima--paulo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lima-paulo/)
+[![Google Play](https://img.shields.io/badge/Google%20Play-My%20Apps-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/dev?id=4878945718056682154)
+
 </div>
 
-<hr>
+## 💼 Skills
+
+- Android Development
+- Kotlin / Java
+- Machine Learning
+- UI/UX Design
+- RESTful APIs
+- Git & Version Control
+
+## 🌟 Featured Projects
+
+Check out some of my highlighted projects on my [Google Play Developer Page](https://play.google.com/store/apps/dev?id=4878945718056682154).
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/dev?id=4878945718056682154">
-    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/google.jpg" alt="Playstore" align="center">
-    <p>See my Apps</p>
-  </a>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulolima18&show_icons=true&theme=dark)
+
 </div>
 
-<hr>
+## 👀 Profile Views
 
 <div align="center">
-  <p>Have a good day!</p>
-  <div>
-    <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/smile.gif" alt="Smiley" align="center">
-  </div>
-</div>
 
-<div align="center">
-  <p></p>
-  <img src="https://profile-counter.glitch.me/paulolima18/count.svg" alt="hit counter" align="center">
+![Profile Views](https://profile-counter.glitch.me/paulolima18/count.svg)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+  <img src="https://raw.githubusercontent.com/paulolima18/paulolima18/main/assets/smile.gif" alt="Smiley" width="60">
+  <p>Thank you for visiting my profile. Have a great day!</p>
 </div>
