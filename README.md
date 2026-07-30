@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an experienced Android Developer passionate about creating innovative mobile applications. With a strong background in machine learning and software development, I strive to deliver high-quality solutions that make a difference.
+I'm a software engineer with a strong background in Android development, now working across the full stack — backend, frontend, DevOps, and AI integration. Over the past couple of months I've shifted from Android-only work to building AI-powered features across generic projects, and I enjoy shipping high-quality, thoughtful products end to end.
 
 ## 🔗 Connect with Me
 
@@ -20,11 +20,11 @@ I'm an experienced Android Developer passionate about creating innovative mobile
 
 ## 💼 Skills
 
-- Android Development
-- iOS Development
-- Kotlin / Java
-- Machine Learning
-- UI/UX Design
+- Android Development (Kotlin, Jetpack Compose)
+- Backend Development (Node.js, TypeScript, PostgreSQL)
+- Frontend Development (React, Next.js)
+- DevOps (CI/CD, cloud deployment, containerization)
+- AI Integration (LLM tool-use, RAG, API-driven AI features)
 - RESTful APIs
 - Git & Version Control
 
